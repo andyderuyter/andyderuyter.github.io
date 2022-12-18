@@ -7,19 +7,19 @@ description: >-
 lang: en-US
 timezone:  Europe/Brussels
 # repo: https://github.com/onepase/Ephesus # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+google_verify: # Put your Google Verification here
+google_analytics: # Put your Google Analytics code
+discus-identifier:  
 
 # Author settings
 author:
   name: Andy
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  bio: # Bio
   picture: assets/images/profile.jpg 
   github: # github username
   twitter: # twitter username
   facebook: # facebook username
-  instagram: onepase # instagram username
+  instagram: # instagram username
   youtube: # youtube username
   linkedin: # linkedin username
   email: # email adress
